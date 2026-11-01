@@ -7,6 +7,7 @@ The world has frozen over. Chop wood, keep the furnace burning, thaw out frozen 
 ## Play
 
 Open `index.html` in any modern browser. It also works on phones: drag anywhere to move.
+https://ecwebdev.github.io/survivalgame/
 
 | Control | Action |
 |---|---|
