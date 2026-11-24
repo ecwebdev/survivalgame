@@ -2,8 +2,6 @@
 
 A small survival game that runs in the browser. It's a single HTML file with no dependencies.
 
-https://ecwebdev.github.io/survivalgame/
-
 The world has frozen over. Chop wood, keep the furnace burning, thaw out frozen survivors, build up your camp and hold off wolves until the thaw comes.
 
 ## Play
